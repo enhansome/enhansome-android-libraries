@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Loader"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Drawable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dependency Injections"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JSON"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "O/R Mapping"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NoSQL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pub/Sub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Logger"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Background Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fonts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Parcelables"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Functional Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Adding Java-8 Functional Programming Features"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Functional Reactive Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Social Networks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WebRTC"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Camera"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Build"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Media"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Showcases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:19:39.936Z",
+    "original_repository": "wasabeef/awesome-android-libraries",
+    "original_repository_sha": "c904af4ec29ae328bedcd2be820f78dd6a583187",
+    "enhanced_repository": "enhansome/enhansome-android-libraries",
+    "enhanced_repository_description": null,
+    "title": "Awesome List of Android Libraries with stars"
+  }
+}
