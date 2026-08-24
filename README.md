@@ -2,7 +2,7 @@
 
 This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 
-**UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,322 | 🐛 39 | 📅 2026-06-05.**
+**UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,328 | 🐛 39 | 📅 2026-06-05.**
 
 ### Index
 
@@ -48,7 +48,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 
 | Name                                                                                                                                | Repository                                                                                                  | License                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Glide](https://github.com/bumptech/glide) ⭐ 35,025 \| 🐛 661 \| 🌐 Java \| 📅 2026-08-20                                           | <https://github.com/bumptech/glide> ⭐ 35,025 \| 🐛 661 \| 🌐 Java \| 📅 2026-08-20                          | [ License](https://github.com/bumptech/glide/blob/master/LICENSE) ⭐ 35,025 \| 🐛 661 \| 🌐 Java \| 📅 2026-08-20       |
+| [Glide](https://github.com/bumptech/glide) ⭐ 35,025 \| 🐛 661 \| 🌐 Java \| 📅 2026-08-24                                           | <https://github.com/bumptech/glide> ⭐ 35,025 \| 🐛 661 \| 🌐 Java \| 📅 2026-08-24                          | [ License](https://github.com/bumptech/glide/blob/master/LICENSE) ⭐ 35,025 \| 🐛 661 \| 🌐 Java \| 📅 2026-08-24       |
 | [ion](https://github.com/koush/ion) ⭐ 6,246 \| 🐛 337 \| 🌐 Java \| 📅 2026-08-11                                                   | <https://github.com/koush/ion> ⭐ 6,246 \| 🐛 337 \| 🌐 Java \| 📅 2026-08-11                                | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
 | [Picasso](http://square.github.io/picasso)                                                                                          | <https://github.com/square/picasso> ⭐ 18,796 \| 🐛 212 \| 🌐 Kotlin \| 📅 2024-11-06                        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
 | [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) ⭐ 16,827 \| 🐛 460 \| 🌐 Java \| 📅 2024-08-15 | <https://github.com/nostra13/Android-Universal-Image-Loader> ⭐ 16,827 \| 🐛 460 \| 🌐 Java \| 📅 2024-08-15 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
@@ -117,7 +117,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 | Name                                                                                                               | Repository                                                                                     | License                                                          |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Hugo](https://github.com/JakeWharton/hugo) ⭐ 7,887 \| 🐛 60 \| 🌐 Java \| 📅 2022-01-05                           | <https://github.com/JakeWharton/hugo> ⭐ 7,887 \| 🐛 60 \| 🌐 Java \| 📅 2022-01-05             | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [Timber](https://github.com/JakeWharton/timber) ⭐ 10,847 \| 🐛 63 \| 🌐 Kotlin \| 📅 2026-08-24                    | <https://github.com/JakeWharton/timber> ⭐ 10,847 \| 🐛 63 \| 🌐 Kotlin \| 📅 2026-08-24        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [Timber](https://github.com/JakeWharton/timber) ⭐ 10,847 \| 🐛 62 \| 🌐 Kotlin \| 📅 2026-08-24                    | <https://github.com/JakeWharton/timber> ⭐ 10,847 \| 🐛 62 \| 🌐 Kotlin \| 📅 2026-08-24        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) ⭐ 1,358 \| 🐛 1 \| 🌐 Kotlin \| 📅 2026-02-19 | <https://github.com/ihsanbal/LoggingInterceptor> ⭐ 1,358 \| 🐛 1 \| 🌐 Kotlin \| 📅 2026-02-19 | [MIT](http://opensource.org/licenses/MIT)                        |
 
 ## Background Processing
@@ -164,7 +164,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 | Name                                                                                             | Repository                                                                            | License                                                          |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,933 \| 🐛 1 \| 🌐 Java \| 📅 2026-08-05 | <https://github.com/ReactiveX/RxAndroid> ⭐ 19,933 \| 🐛 1 \| 🌐 Java \| 📅 2026-08-05 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,204 \| 🐛 10 \| 🌐 Java \| 📅 2026-08-24      | <https://github.com/ReactiveX/RxJava> ⭐ 48,204 \| 🐛 10 \| 🌐 Java \| 📅 2026-08-24   | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,204 \| 🐛 11 \| 🌐 Java \| 📅 2026-08-24      | <https://github.com/ReactiveX/RxJava> ⭐ 48,204 \| 🐛 11 \| 🌐 Java \| 📅 2026-08-24   | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 
 ## Social Networks
 

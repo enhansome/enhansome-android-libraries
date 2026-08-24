@@ -108,7 +108,7 @@
             "archived": false,
             "id": 11267509,
             "language": "Java",
-            "last_commit": "2026-08-20T17:51:21Z",
+            "last_commit": "2026-08-24T18:52:50Z",
             "owner": "bumptech",
             "repo": "glide",
             "stars": 35025
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 11267509,
             "language": "Java",
-            "last_commit": "2026-08-20T17:51:21Z",
+            "last_commit": "2026-08-24T18:52:50Z",
             "owner": "bumptech",
             "repo": "glide",
             "stars": 35025
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 11495787,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T06:01:10Z",
+            "last_commit": "2026-08-24T18:13:24Z",
             "owner": "JakeWharton",
             "repo": "timber",
             "stars": 10847
@@ -1318,7 +1318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:44.249Z",
+    "last_updated": "2026-08-24T18:58:18.685Z",
     "original_repository": "wasabeef/awesome-android-libraries",
     "original_repository_id": 25873041,
     "original_repository_sha": "c904af4ec29ae328bedcd2be820f78dd6a583187",
