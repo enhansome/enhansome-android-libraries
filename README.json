@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T19:33:11Z",
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
-            "stars": 6392
+            "stars": 6393
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-11T20:23:53Z",
             "owner": "koush",
             "repo": "ion",
-            "stars": 6246
+            "stars": 6243
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-23T02:23:05Z",
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47050
+            "stars": 47047
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-23T02:00:28Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43933
+            "stars": 43935
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-11T20:23:53Z",
             "owner": "koush",
             "repo": "ion",
-            "stars": 6246
+            "stars": 6243
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-08-15T11:03:23Z",
             "owner": "nostra13",
             "repo": "Android-Universal-Image-Loader",
-            "stars": 16827
+            "stars": 16828
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 31533997,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T20:02:56Z",
+            "last_commit": "2026-08-25T15:48:37Z",
             "owner": "facebook",
             "repo": "fresco",
             "stars": 17159
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 31533997,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T20:02:56Z",
+            "last_commit": "2026-08-25T15:48:37Z",
             "owner": "facebook",
             "repo": "fresco",
             "stars": 17159
@@ -222,7 +222,7 @@
             "last_commit": "2022-05-31T13:16:38Z",
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10977
+            "stars": 10976
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2023-09-02T07:41:30Z",
             "owner": "JakeWharton",
             "repo": "butterknife",
-            "stars": 25349
+            "stars": 25348
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 7968417,
             "language": "Java",
-            "last_commit": "2026-08-23T20:05:20Z",
+            "last_commit": "2026-08-25T07:35:14Z",
             "owner": "google",
             "repo": "dagger",
-            "stars": 17702
+            "stars": 17703
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2020-08-17T16:20:56Z",
             "owner": "square",
             "repo": "sqlbrite",
-            "stars": 4522
+            "stars": 4521
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2025-09-15T18:19:00Z",
             "owner": "realm",
             "repo": "realm-java",
-            "stars": 11462
+            "stars": 11461
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2019-11-03T10:25:44Z",
             "owner": "nhachicha",
             "repo": "SnappyDB",
-            "stars": 1775
+            "stars": 1774
           }
         }
       ],
@@ -591,7 +591,7 @@
             "last_commit": "2024-02-21T18:18:34Z",
             "owner": "greenrobot",
             "repo": "EventBus",
-            "stars": 24719
+            "stars": 24718
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2026-08-24T18:13:24Z",
             "owner": "JakeWharton",
             "repo": "timber",
-            "stars": 10847
+            "stars": 10846
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2023-03-18T23:20:25Z",
             "owner": "square",
             "repo": "tape",
-            "stars": 2456
+            "stars": 2455
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-07-09T20:29:27Z",
             "owner": "johncarl81",
             "repo": "parceler",
-            "stars": 3529
+            "stars": 3528
           }
         }
       ],
@@ -885,7 +885,7 @@
                 "last_commit": "2026-08-05T12:08:09Z",
                 "owner": "ReactiveX",
                 "repo": "RxAndroid",
-                "stars": 19933
+                "stars": 19932
               }
             },
             {
@@ -900,7 +900,7 @@
                 "last_commit": "2026-08-24T05:34:22Z",
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48205
+                "stars": 48203
               }
             }
           ],
@@ -1019,7 +1019,7 @@
             "last_commit": "2017-08-09T11:22:12Z",
             "owner": "Glamdring",
             "repo": "EasyCamera",
-            "stars": 637
+            "stars": 636
           }
         }
       ],
@@ -1103,7 +1103,7 @@
             "last_commit": "2021-10-01T07:31:17Z",
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20438
+            "stars": 20436
           }
         },
         {
@@ -1256,10 +1256,10 @@
             "archived": false,
             "id": 3480666,
             "language": "Java",
-            "last_commit": "2026-08-23T21:45:31Z",
+            "last_commit": "2026-08-25T18:46:34Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6642
+            "stars": 6643
           }
         },
         {
@@ -1295,7 +1295,7 @@
             "last_commit": "2026-07-20T19:17:23Z",
             "owner": "dlew",
             "repo": "joda-time-android",
-            "stars": 2616
+            "stars": 2614
           }
         },
         {
@@ -1318,7 +1318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:24.049Z",
+    "last_updated": "2026-08-25T18:56:21.750Z",
     "original_repository": "wasabeef/awesome-android-libraries",
     "original_repository_id": 25873041,
     "original_repository_sha": "c904af4ec29ae328bedcd2be820f78dd6a583187",
