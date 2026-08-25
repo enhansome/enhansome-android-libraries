@@ -60,7 +60,7 @@
             "last_commit": "2026-08-23T02:23:05Z",
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47049
+            "stars": 47050
           }
         },
         {
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 11267509,
             "language": "Java",
-            "last_commit": "2026-08-24T18:52:50Z",
+            "last_commit": "2026-08-25T00:43:16Z",
             "owner": "bumptech",
             "repo": "glide",
             "stars": 35025
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 11267509,
             "language": "Java",
-            "last_commit": "2026-08-24T18:52:50Z",
+            "last_commit": "2026-08-25T00:43:16Z",
             "owner": "bumptech",
             "repo": "glide",
             "stars": 35025
@@ -176,14 +176,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/facebook/fresco",
+          "title": "facebook/fresco",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 31533997,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T11:07:54Z",
+            "last_commit": "2026-08-24T20:02:56Z",
             "owner": "facebook",
             "repo": "fresco",
             "stars": 17159
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 31533997,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T11:07:54Z",
+            "last_commit": "2026-08-24T20:02:56Z",
             "owner": "facebook",
             "repo": "fresco",
             "stars": 17159
@@ -404,7 +404,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/satyan/sugar",
+          "title": "chennaione/sugar",
           "description": null,
           "children": [],
           "repo_info": {
@@ -900,7 +900,7 @@
                 "last_commit": "2026-08-24T05:34:22Z",
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48204
+                "stars": 48205
               }
             }
           ],
@@ -926,7 +926,7 @@
             "last_commit": "2019-05-29T12:32:28Z",
             "owner": "gorbin",
             "repo": "ASNE",
-            "stars": 878
+            "stars": 877
           }
         },
         {
@@ -941,7 +941,7 @@
             "last_commit": "2026-06-30T18:58:55Z",
             "owner": "facebook",
             "repo": "facebook-android-sdk",
-            "stars": 6457
+            "stars": 6456
           }
         }
       ],
@@ -1259,7 +1259,7 @@
             "last_commit": "2026-08-23T21:45:31Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6641
+            "stars": 6642
           }
         },
         {
@@ -1310,7 +1310,7 @@
             "last_commit": "2019-03-11T14:59:13Z",
             "owner": "BoltsFramework",
             "repo": "Bolts-Android",
-            "stars": 4006
+            "stars": 4005
           }
         }
       ],
@@ -1318,7 +1318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:58:18.685Z",
+    "last_updated": "2026-08-25T05:51:24.049Z",
     "original_repository": "wasabeef/awesome-android-libraries",
     "original_repository_id": 25873041,
     "original_repository_sha": "c904af4ec29ae328bedcd2be820f78dd6a583187",
