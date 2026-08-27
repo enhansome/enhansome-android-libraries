@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1450115,
             "language": "Java",
-            "last_commit": "2026-08-26T19:01:36Z",
+            "last_commit": "2026-08-26T20:09:35Z",
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
             "stars": 6393
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 5152285,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T02:23:05Z",
+            "last_commit": "2026-08-27T03:27:47Z",
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47053
+            "stars": 47055
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-26T13:56:16Z",
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43934
+            "stars": 43937
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-26T15:39:15Z",
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35027
+            "stars": 35026
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-26T15:39:15Z",
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35027
+            "stars": 35026
           }
         },
         {
@@ -882,7 +882,7 @@
                 "archived": false,
                 "id": 23095954,
                 "language": "Java",
-                "last_commit": "2026-08-05T12:08:09Z",
+                "last_commit": "2026-08-27T11:15:28Z",
                 "owner": "ReactiveX",
                 "repo": "RxAndroid",
                 "stars": 19932
@@ -897,10 +897,10 @@
                 "archived": false,
                 "id": 7508411,
                 "language": "Java",
-                "last_commit": "2026-08-24T05:34:22Z",
+                "last_commit": "2026-08-27T05:03:09Z",
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48204
+                "stars": 48206
               }
             }
           ],
@@ -941,7 +941,7 @@
             "last_commit": "2026-06-30T18:58:55Z",
             "owner": "facebook",
             "repo": "facebook-android-sdk",
-            "stars": 6456
+            "stars": 6457
           }
         }
       ],
@@ -1040,7 +1040,7 @@
             "last_commit": "2023-10-25T02:45:11Z",
             "owner": "facebook",
             "repo": "buck",
-            "stars": 8539
+            "stars": 8540
           }
         }
       ],
@@ -1256,10 +1256,10 @@
             "archived": false,
             "id": 3480666,
             "language": "Java",
-            "last_commit": "2026-08-26T17:06:08Z",
+            "last_commit": "2026-08-27T10:39:17Z",
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6644
+            "stars": 6647
           }
         },
         {
@@ -1318,9 +1318,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:01:46.503Z",
-    "original_repository": "wasabeef/awesome-android-libraries",
-    "original_repository_id": 25873041,
+    "last_updated": "2026-08-27T11:22:07.757Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 25873041,
+      "language": null,
+      "last_commit": "2023-08-29T05:35:31Z",
+      "owner": "wasabeef",
+      "repo": "awesome-android-libraries",
+      "stars": 5528
+    },
     "original_repository_sha": "c904af4ec29ae328bedcd2be820f78dd6a583187",
     "enhanced_repository": "enhansome/enhansome-android-libraries",
     "enhanced_repository_description": null,
