@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.",
+            "homepage": "https://github.com/android-async-http/android-async-http#this-project-is-no-longer-maintained-and-is-currently-deprecated-and-insecure-to-use",
             "id": 1388245,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-17T14:55:24Z",
+            "open_issues": 119,
             "owner": "android-async-http",
             "repo": "android-async-http",
-            "stars": 10581
+            "stars": 10581,
+            "topics": [
+              "android",
+              "java"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -26,12 +34,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous, non-blocking HTTP & WebSocket client for the JVM",
+            "homepage": null,
             "id": 1450115,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:36:16Z",
+            "open_issues": 97,
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
-            "stars": 6394
+            "stars": 6394,
+            "topics": [
+              "ahc",
+              "async",
+              "asynchttpclient",
+              "http-client",
+              "java",
+              "netty"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Asynchronous Networking and Image Loading",
+            "homepage": null,
             "id": 10214538,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T20:23:53Z",
+            "open_issues": 334,
             "owner": "koush",
             "repo": "ion",
-            "stars": 6243
+            "stars": 6243,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -58,12 +83,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+            "homepage": "https://lysine.dev/okhttp/",
             "id": 5152285,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:12:08Z",
+            "open_issues": 143,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47056
+            "stars": 47056,
+            "topics": [
+              "android",
+              "graalvm",
+              "java",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -74,12 +109,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A type-safe HTTP client for Android and the JVM",
+            "homepage": "https://lysine.dev/retrofit/",
             "id": 892275,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:27:56Z",
+            "open_issues": 168,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43937
+            "stars": 43937,
+            "topics": [
+              "android",
+              "java"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -90,12 +133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive Extension (Rx) Adaptor for Netty",
+            "homepage": null,
             "id": 14401179,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-05T08:58:30Z",
+            "open_issues": 84,
             "owner": "ReactiveX",
             "repo": "RxNetty",
-            "stars": 1373
+            "stars": 1373,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -112,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An image loading and caching library for Android focused on smooth scrolling",
+            "homepage": "https://bumptech.github.io/glide/",
             "id": 11267509,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:00:04Z",
+            "open_issues": 658,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35025
+            "stars": 35025,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -128,12 +181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An image loading and caching library for Android focused on smooth scrolling",
+            "homepage": "https://bumptech.github.io/glide/",
             "id": 11267509,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:00:04Z",
+            "open_issues": 658,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35025
+            "stars": 35025,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -144,12 +202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Asynchronous Networking and Image Loading",
+            "homepage": null,
             "id": 10214538,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T20:23:53Z",
+            "open_issues": 334,
             "owner": "koush",
             "repo": "ion",
-            "stars": 6243
+            "stars": 6243,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -160,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful image downloading and caching library for Android",
+            "homepage": "https://square.github.io/picasso/",
             "id": 10057936,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-06T03:35:18Z",
+            "open_issues": 212,
             "owner": "square",
             "repo": "picasso",
-            "stars": 18797
+            "stars": 18798,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -176,12 +244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful and flexible library for loading, caching and displaying images on Android.",
+            "homepage": null,
             "id": 2862290,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-15T11:03:23Z",
+            "open_issues": 460,
             "owner": "nostra13",
             "repo": "Android-Universal-Image-Loader",
-            "stars": 16828
+            "stars": 16828,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -192,12 +265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android library for managing images and the memory they use.",
+            "homepage": "https://frescolib.org/",
             "id": 31533997,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:38:36Z",
+            "open_issues": 260,
             "owner": "facebook",
             "repo": "fresco",
-            "stars": 17161
+            "stars": 17161,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -208,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android library for managing images and the memory they use.",
+            "homepage": "https://frescolib.org/",
             "id": 31533997,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:38:36Z",
+            "open_issues": 260,
             "owner": "facebook",
             "repo": "fresco",
-            "stars": 17161
+            "stars": 17161,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -230,12 +313,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast Android Development. Easy maintainance.",
+            "homepage": null,
             "id": 3116751,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-31T13:16:38Z",
+            "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10976
+            "stars": 10976,
+            "topics": [
+              "android",
+              "androidannotations",
+              "annotation-processor",
+              "java"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -246,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bind Android views and callbacks to fields and methods.",
+            "homepage": "http://jakewharton.github.io/butterknife/",
             "id": 8575137,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-02T07:41:30Z",
+            "open_issues": 118,
             "owner": "JakeWharton",
             "repo": "butterknife",
-            "stars": 25348
+            "stars": 25348,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -262,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fast dependency injector for Android and Java.",
+            "homepage": "https://square.github.io/dagger/",
             "id": 5279091,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-26T11:07:52Z",
+            "open_issues": 63,
             "owner": "square",
             "repo": "dagger",
-            "stars": 7279
+            "stars": 7279,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -278,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast dependency injector for Android and Java.",
+            "homepage": "https://dagger.dev",
             "id": 7968417,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:55:25Z",
+            "open_issues": 366,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17703
+            "stars": 17703,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -294,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Guice on Android, version 3.0 [RETIRED]",
+            "homepage": null,
             "id": 5391743,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2017-01-19T21:02:22Z",
+            "open_issues": 147,
             "owner": "roboguice",
             "repo": "roboguice",
-            "stars": 3721
+            "stars": 3721,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -310,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easier creation of Dagger ObjectGraph scopes with Retrofit and Butterknife niceties",
+            "homepage": null,
             "id": 28531506,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-12-30T21:49:21Z",
+            "open_issues": 0,
             "owner": "emmano",
             "repo": "Scopes",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -332,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast JSON parser for java projects",
+            "homepage": "https://instagram-engineering.com/fast-auto-generated-streaming-json-parsing-for-android-ab8e7be21033",
             "id": 20737234,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-09-23T22:33:19Z",
+            "open_issues": 9,
             "owner": "Instagram",
             "repo": "ig-json-parser",
-            "stars": 1317
+            "stars": 1317,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -348,12 +471,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Main Portal page for the Jackson project",
+            "homepage": null,
             "id": 2604249,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-17T03:05:02Z",
+            "open_issues": 0,
             "owner": "FasterXML",
             "repo": "jackson",
-            "stars": 9804
+            "stars": 9803,
+            "topics": [
+              "hacktoberfest",
+              "jackson",
+              "java-json",
+              "java-json-library"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -370,12 +503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Active record style SQLite persistence for Android",
+            "homepage": "http://www.activeandroid.com",
             "id": 6709149,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-10-15T16:28:24Z",
+            "open_issues": 327,
             "owner": "pardom-zz",
             "repo": "ActiveAndroid",
-            "stars": 4653
+            "stars": 4653,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -386,12 +524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazing fast, powerful, and very simple ORM android database library that writes database code for you.",
+            "homepage": null,
             "id": 24161015,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-08-23T22:43:01Z",
+            "open_issues": 46,
             "owner": "agrosner",
             "repo": "DBFlow",
-            "stars": 4848
+            "stars": 4848,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -402,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.",
+            "homepage": "http://greenrobot.org/greendao/",
             "id": 2626751,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-04-30T05:30:59Z",
+            "open_issues": 237,
             "owner": "greenrobot",
             "repo": "greenDAO",
-            "stars": 12590
+            "stars": 12590,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -418,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object-relational mapping for Android",
+            "homepage": "http://www.rushorm.co.uk/",
             "id": 29560210,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-07T16:29:12Z",
+            "open_issues": 43,
             "owner": "Stuart-campbell",
             "repo": "RushOrm",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -434,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insanely easy way to work with Android Database.  ",
+            "homepage": "http://satyan.github.com/sugar/",
             "id": 2197202,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-09-02T12:51:46Z",
+            "open_issues": 300,
             "owner": "chennaione",
             "repo": "sugar",
-            "stars": 2608
+            "stars": 2608,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -450,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insanely easy way to work with Android Database.  ",
+            "homepage": "http://satyan.github.com/sugar/",
             "id": 2197202,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-09-02T12:51:46Z",
+            "open_issues": 300,
             "owner": "chennaione",
             "repo": "sugar",
-            "stars": 2608
+            "stars": 2608,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -466,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Android ORM",
+            "homepage": "http://andrewreitz.com/shillelagh/",
             "id": 17953547,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-24T16:06:07Z",
+            "open_issues": 4,
             "owner": "AndrewReitz",
             "repo": "shillelagh",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -482,12 +650,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.",
+            "homepage": "https://square.github.io/sqlbrite/3.x/sqlbrite/",
             "id": 31001422,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-17T16:20:56Z",
+            "open_issues": 5,
             "owner": "square",
             "repo": "sqlbrite",
-            "stars": 4521
+            "stars": 4521,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -498,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile-time active record ORM for Android",
+            "homepage": null,
             "id": 19122427,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-24T16:05:01Z",
+            "open_issues": 28,
             "owner": "pardom-zz",
             "repo": "Ollie",
-            "stars": 417
+            "stars": 417,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -514,12 +692,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3d database ORM experiment. (used in two commercial projects)",
+            "homepage": null,
             "id": 34977564,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-02-22T08:00:07Z",
+            "open_issues": 0,
             "owner": "HendrixString",
             "repo": "Android-TriOrm",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "android",
+              "android-triorm",
+              "orm",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -536,12 +724,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight, embedded, syncable NoSQL database engine for Android.",
+            "homepage": "http://developer.couchbase.com/mobile/",
             "id": 9992330,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-20T22:07:31Z",
+            "open_issues": 91,
             "owner": "couchbase",
             "repo": "couchbase-lite-android",
-            "stars": 1165
+            "stars": 1165,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -552,12 +745,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Realm is a mobile database: a replacement for SQLite & ORMs",
+            "homepage": "http://realm.io",
             "id": 4084908,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-15T18:19:00Z",
+            "open_issues": 394,
             "owner": "realm",
             "repo": "realm-java",
-            "stars": 11463
+            "stars": 11462,
+            "topics": [
+              "android",
+              "database",
+              "java",
+              "mobile",
+              "mobile-database",
+              "nosql-database",
+              "realtime-database"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -568,12 +774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.",
+            "homepage": null,
             "id": 22389255,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-10-26T05:24:48Z",
+            "open_issues": 16,
             "owner": "Jearil",
             "repo": "SimpleNoSQL",
-            "stars": 389
+            "stars": 389,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -584,12 +795,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reactive extensions for SimpleNoSQL",
+            "homepage": null,
             "id": 54569294,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-24T17:50:55Z",
+            "open_issues": 3,
             "owner": "xmartlabs",
             "repo": "RxSimpleNoSQL",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -600,12 +816,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A key-value database for Android",
+            "homepage": null,
             "id": 15006401,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-11-03T10:25:44Z",
+            "open_issues": 71,
             "owner": "nhachicha",
             "repo": "SnappyDB",
-            "stars": 1774
+            "stars": 1774,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -622,12 +843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",
+            "homepage": "http://greenrobot.org/eventbus/",
             "id": 5070389,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-21T18:18:34Z",
+            "open_issues": 147,
             "owner": "greenrobot",
             "repo": "EventBus",
-            "stars": 24716
+            "stars": 24716,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -638,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An enhanced Guava-based event bus with emphasis on Android support.",
+            "homepage": "http://square.github.io/otto/",
             "id": 4812336,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-17T16:07:14Z",
+            "open_issues": 18,
             "owner": "square",
             "repo": "otto",
-            "stars": 5113
+            "stars": 5113,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -654,12 +885,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful event-bus optimized for high throughput in multi-threaded applications. Features: Sync and Async event publication, weak/strong references, event filtering, annotation driven",
+            "homepage": null,
             "id": 6348438,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-12-02T04:15:46Z",
+            "open_issues": 17,
             "owner": "bennidi",
             "repo": "mbassador",
-            "stars": 977
+            "stars": 977,
+            "topics": [
+              "concurrent-programming",
+              "event-driven",
+              "eventbus",
+              "java",
+              "jvm"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -676,12 +918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Annotation-triggered method call logging for your debug builds.",
+            "homepage": null,
             "id": 14681168,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-05T11:19:51Z",
+            "open_issues": 60,
             "owner": "JakeWharton",
             "repo": "hugo",
-            "stars": 7887
+            "stars": 7887,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -692,12 +939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A logger with a small, extensible API which provides utility on top of Android's normal Log class.",
+            "homepage": "https://jakewharton.github.io/timber/docs/5.x/",
             "id": 11495787,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:46:51Z",
+            "open_issues": 62,
             "owner": "JakeWharton",
             "repo": "timber",
-            "stars": 10847
+            "stars": 10847,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -708,12 +960,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OkHttp interceptor which has pretty logger for request and response. +Mock support",
+            "homepage": null,
             "id": 82835649,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-02-19T03:07:17Z",
+            "open_issues": 1,
             "owner": "ihsanbal",
             "repo": "LoggingInterceptor",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "android",
+              "interceptor",
+              "java",
+              "java-library",
+              "kotlin",
+              "logging-library",
+              "logginginterceptor",
+              "mock",
+              "mocking-framework",
+              "okhttp"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -730,12 +998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.",
+            "homepage": null,
             "id": 9316799,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-02-24T12:15:03Z",
+            "open_issues": 34,
             "owner": "path",
             "repo": "android-priority-jobqueue",
-            "stars": 2392
+            "stars": 2392,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -746,12 +1019,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A lightning fast, transactional, file-based FIFO for Android and Java.",
+            "homepage": "https://square.github.io/tape/",
             "id": 5745625,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-18T23:20:25Z",
+            "open_issues": 27,
             "owner": "square",
             "repo": "tape",
-            "stars": 2455
+            "stars": 2455,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -762,12 +1040,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async Workers and Worker managers for Android",
+            "homepage": null,
             "id": 40300693,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-02-22T07:56:42Z",
+            "open_issues": 0,
             "owner": "HendrixString",
             "repo": "Android-Zorn",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "android",
+              "android-zorn",
+              "worker-manager"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -784,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project is deprecated and stale. The latest ExoPlayer code is available in https://github.com/androidx/media",
+            "homepage": "https://developer.android.com/media/media3/exoplayer",
             "id": 20818126,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-23T16:39:03Z",
+            "open_issues": 628,
             "owner": "google",
             "repo": "ExoPlayer",
-            "stars": 21930
+            "stars": 21931,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -800,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Permanently moved to http://github.com/Bilibili/ijkplayer",
+            "homepage": null,
             "id": 71206185,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2017-04-17T08:41:43Z",
+            "open_issues": 0,
             "owner": "bbcallen",
             "repo": "ijkplayer",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -816,12 +1113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java API to read, write and create MP4 files",
+            "homepage": null,
             "id": 12853082,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-15T22:50:11Z",
+            "open_issues": 276,
             "owner": "sannies",
             "repo": "mp4parser",
-            "stars": 2800
+            "stars": 2800,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -838,12 +1140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Parcelable models made easy",
+            "homepage": null,
             "id": 17723245,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2017-02-12T15:10:29Z",
+            "open_issues": 10,
             "owner": "frankiesardo",
             "repo": "auto-parcel",
-            "stars": 1358
+            "stars": 1358,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -854,12 +1161,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android states and arguments made easy with annotations",
+            "homepage": null,
             "id": 40139047,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-03-06T01:47:08Z",
+            "open_issues": 5,
             "owner": "tom91136",
             "repo": "Akatsuki",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "comsm"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -870,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Instance State made easy",
+            "homepage": null,
             "id": 11390894,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2021-05-26T07:01:41Z",
+            "open_issues": 26,
             "owner": "frankiesardo",
             "repo": "icepick",
-            "stars": 3720
+            "stars": 3720,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -886,12 +1205,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: Android Parcelables made easy through code generation.",
+            "homepage": "http://parceler.org",
             "id": 11140459,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-09T20:29:27Z",
+            "open_issues": 33,
             "owner": "johncarl81",
             "repo": "parceler",
-            "stars": 3528
+            "stars": 3528,
+            "topics": [
+              "android",
+              "android-parcelable",
+              "annotation-processor",
+              "boilerplate",
+              "java"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -910,12 +1240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backport of Java 8's lambda expressions to Java 7, 6 and 5",
+                "homepage": null,
                 "id": 11543691,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-26T15:12:04Z",
+                "open_issues": 26,
                 "owner": "luontola",
                 "repo": "retrolambda",
-                "stars": 3514
+                "stars": 3514,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:59.004Z"
             }
@@ -933,12 +1268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxJava bindings for Android",
+                "homepage": null,
                 "id": 23095954,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T11:15:28Z",
+                "open_issues": 1,
                 "owner": "ReactiveX",
                 "repo": "RxAndroid",
-                "stars": 19932
+                "stars": 19932,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:44:59.004Z"
             },
@@ -949,12 +1289,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+                "homepage": "https://dsc.gg/rxjava",
                 "id": 7508411,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T05:03:09Z",
+                "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48208
+                "stars": 48208,
+                "topics": [
+                  "flow",
+                  "java",
+                  "reactive-streams",
+                  "rxjava"
+                ]
               },
               "first_seen": "2026-08-29T01:44:59.004Z"
             }
@@ -976,12 +1326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASNE library for simple integration of social networks: Twitter, Facebook, Google Plus, LinkedIn, Instagram, Vkontakte, Odnoklassniki",
+            "homepage": null,
             "id": 22425058,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-05-29T12:32:28Z",
+            "open_issues": 61,
             "owner": "gorbin",
             "repo": "ASNE",
-            "stars": 877
+            "stars": 877,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -992,12 +1347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Used to integrate Android apps with Facebook Platform.",
+            "homepage": "https://developers.facebook.com/docs/android",
             "id": 659341,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T18:58:55Z",
+            "open_issues": 94,
             "owner": "facebook",
             "repo": "facebook-android-sdk",
-            "stars": 6456
+            "stars": 6456,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1014,12 +1374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android client for ProjectRTC - a WebRTC demo",
+            "homepage": null,
             "id": 11903509,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-09-20T16:12:11Z",
+            "open_issues": 143,
             "owner": "pchab",
             "repo": "AndroidRTC",
-            "stars": 1614
+            "stars": 1614,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1036,12 +1401,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android filters based on OpenGL (idea from GPUImage for iOS)",
+            "homepage": null,
             "id": 6072443,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-08-03T16:07:30Z",
+            "open_issues": 347,
             "owner": "wasabeef",
             "repo": "android-gpuimage",
-            "stars": 9154
+            "stars": 9154,
+            "topics": [
+              "android",
+              "gpuimage",
+              "java",
+              "opengl"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1058,12 +1433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful custom Android Camera with granular control over the video quality and filesize, restricting recordings to landscape only.",
+            "homepage": null,
             "id": 15640386,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-05-28T14:16:45Z",
+            "open_issues": 13,
             "owner": "JeroenMols",
             "repo": "LandscapeVideoCamera",
-            "stars": 1208
+            "stars": 1208,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1074,12 +1454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrapper around the android Camera class that simplifies its usage",
+            "homepage": null,
             "id": 18170465,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-08-09T11:22:12Z",
+            "open_issues": 0,
             "owner": "Glamdring",
             "repo": "EasyCamera",
-            "stars": 636
+            "stars": 636,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1096,12 +1481,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.",
+            "homepage": "https://buck.build",
             "id": 9504214,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-25T02:45:11Z",
+            "open_issues": 226,
             "owner": "facebook",
             "repo": "buck",
-            "stars": 8541
+            "stars": 8541,
+            "topics": [
+              "android",
+              "buck",
+              "build-tool",
+              "ios",
+              "java",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1118,12 +1515,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grab’n Run, a simple and effective Java Library for Android projects to secure dynamic code loading.",
+            "homepage": null,
             "id": 26956394,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2016-05-24T00:28:54Z",
+            "open_issues": 2,
             "owner": "lukeFalsina",
             "repo": "Grab-n-Run",
-            "stars": 406
+            "stars": 406,
+            "topics": [
+              "android-application",
+              "android-development",
+              "application-security",
+              "dynamic",
+              "java",
+              "signature-verification"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1140,12 +1549,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert android XML layouts into PDF document, works on all versions of Android.",
+            "homepage": null,
             "id": 34977056,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2018-05-23T10:41:42Z",
+            "open_issues": 1,
             "owner": "HendrixString",
             "repo": "Android-PdfMyXml",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "android",
+              "android-pdfmyxml",
+              "pdf",
+              "pdf-generation"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1162,12 +1581,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Do's and Don'ts for Android development, by Futurice developers",
+            "homepage": null,
             "id": 22374063,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-10-01T07:31:17Z",
+            "open_issues": 30,
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20437
+            "stars": 20437,
+            "topics": [
+              "android",
+              "android-development",
+              "best-practices"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1178,12 +1606,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a simple App to test some blur algorithms on their visual quality and performance.",
+            "homepage": "https://favr.dev/opensource/blurtestandroid/",
             "id": 18530316,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-01T06:51:55Z",
+            "open_issues": 1,
             "owner": "patrickfav",
             "repo": "BlurTestAndroid",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "algorithm",
+              "android-application",
+              "benchmark",
+              "blur",
+              "renderscript"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1194,12 +1633,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The open-source code for the card.io-Android-SDK: provides fast, easy credit card scanning in mobile apps",
+            "homepage": null,
             "id": 27944640,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-20T20:12:54Z",
+            "open_issues": 47,
             "owner": "card-io",
             "repo": "card.io-Android-source",
-            "stars": 573
+            "stars": 573,
+            "topics": [
+              "android",
+              "card-scanning",
+              "credit-card",
+              "ocr",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1210,12 +1660,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Google I/O Android App",
+            "homepage": null,
             "id": 18347476,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-05T18:35:51Z",
+            "open_issues": 76,
             "owner": "google",
             "repo": "iosched",
-            "stars": 21646
+            "stars": 21646,
+            "topics": [
+              "android",
+              "architecture",
+              "conference",
+              "coroutines",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1226,12 +1687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A proof on concept to create an API that is 100% compatible reflection API, but without any reflection. Performance stuff for Android and Java.",
+            "homepage": null,
             "id": 26927197,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-06-28T21:18:02Z",
+            "open_issues": 3,
             "owner": "stephanenicolas",
             "repo": "reflection-no-reflection",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1242,12 +1708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Popular media indexer app for Android. No longer maintained. DEPRECATED.",
+            "homepage": "http://mizuu.tv",
             "id": 8659145,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-10T15:54:12Z",
+            "open_issues": 27,
             "owner": "MizzleDK",
             "repo": "Mizuu",
-            "stars": 865
+            "stars": 865,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1258,12 +1729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client for local youtube alternative site, Project closed, because of user agreement violation and will not be supported, but pull requests & issues will be cool ",
+            "homepage": null,
             "id": 28821583,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-17T16:24:41Z",
+            "open_issues": 2,
             "owner": "Codetail",
             "repo": "Mover",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1274,12 +1750,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Deprecated] The Holo version of my popular Android Talon for Twitter app, 100% open-source",
+            "homepage": "https://github.com/klinker24/talon-for-twitter-android",
             "id": 25601850,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-07-04T16:54:05Z",
+            "open_issues": 0,
             "owner": "klinker24",
             "repo": "talon-twitter-holo",
-            "stars": 1651
+            "stars": 1651,
+            "topics": [
+              "android",
+              "java",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1290,12 +1775,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Record full-resolution video on your Android devices.",
+            "homepage": null,
             "id": 25573672,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-09T17:23:15Z",
+            "open_issues": 33,
             "owner": "JakeWharton",
             "repo": "Telecine",
-            "stars": 2446
+            "stars": 2446,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1306,12 +1796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample Android app which showcases advanced usage of Dagger among other open source libraries.",
+            "homepage": "https://www.youtube.com/watch?v=0XHx9jtxIxU",
             "id": 14393731,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-28T12:22:30Z",
+            "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5619
+            "stars": 5619,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1328,12 +1823,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.",
+            "homepage": "https://www.graphhopper.com/open-source/",
             "id": 3480666,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:47:27Z",
+            "open_issues": 240,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6646
+            "stars": 6647,
+            "topics": [
+              "astar",
+              "dijkstra",
+              "directions",
+              "geospatial",
+              "graphhopper",
+              "isochrones",
+              "java",
+              "map-matching",
+              "openstreetmap",
+              "pathfinding",
+              "public-transportation",
+              "routing",
+              "routing-engine"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1344,12 +1858,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vector map library and writer - running on Android and Desktop.",
+            "homepage": null,
             "id": 26262349,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-23T07:11:05Z",
+            "open_issues": 2,
             "owner": "mapsforge",
             "repo": "mapsforge",
-            "stars": 1404
+            "stars": 1404,
+            "topics": [
+              "java",
+              "map",
+              "openstreetmap",
+              "vector"
+            ]
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1366,12 +1890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joda-Time library with Android specialization",
+            "homepage": null,
             "id": 15745219,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T19:17:23Z",
+            "open_issues": 2,
             "owner": "dlew",
             "repo": "joda-time-android",
-            "stars": 2614
+            "stars": 2614,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         },
@@ -1382,12 +1911,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Bolts is a collection of low-level libraries designed to make developing mobile apps easier.",
+            "homepage": "http://boltsframework.github.io/Bolts-Android/",
             "id": 16368712,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-03-11T14:59:13Z",
+            "open_issues": 27,
             "owner": "BoltsFramework",
             "repo": "Bolts-Android",
-            "stars": 4005
+            "stars": 4005,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
         }
@@ -1396,15 +1930,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:44:59.004Z",
+    "last_updated": "2026-08-29T04:16:35.772Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
+      "homepage": "https://twitter.com/wasabeef_jp",
       "id": 25873041,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-29T05:35:31Z",
+      "open_issues": 64,
       "owner": "wasabeef",
       "repo": "awesome-android-libraries",
-      "stars": 5528
+      "stars": 5528,
+      "topics": []
     },
     "original_repository_sha": "c904af4ec29ae328bedcd2be820f78dd6a583187",
     "enhanced_repository": "enhansome/enhansome-android-libraries",
