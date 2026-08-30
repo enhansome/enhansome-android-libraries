@@ -43,7 +43,7 @@
             "open_issues": 97,
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
-            "stars": 6395,
+            "stars": 6394,
             "topics": [
               "ahc",
               "async",
@@ -92,7 +92,7 @@
             "open_issues": 142,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47052,
+            "stars": 47056,
             "topics": [
               "android",
               "graalvm",
@@ -118,7 +118,7 @@
             "open_issues": 168,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43936,
+            "stars": 43937,
             "topics": [
               "android",
               "java"
@@ -169,7 +169,7 @@
             "open_issues": 658,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35024,
+            "stars": 35025,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -190,7 +190,7 @@
             "open_issues": 658,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35024,
+            "stars": 35025,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -390,7 +390,7 @@
             "open_issues": 366,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17702,
+            "stars": 17701,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -411,7 +411,7 @@
             "open_issues": 147,
             "owner": "roboguice",
             "repo": "roboguice",
-            "stars": 3721,
+            "stars": 3720,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -754,7 +754,7 @@
             "open_issues": 394,
             "owner": "realm",
             "repo": "realm-java",
-            "stars": 11462,
+            "stars": 11463,
             "topics": [
               "android",
               "database",
@@ -927,7 +927,7 @@
             "open_issues": 60,
             "owner": "JakeWharton",
             "repo": "hugo",
-            "stars": 7887,
+            "stars": 7888,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -969,7 +969,7 @@
             "open_issues": 1,
             "owner": "ihsanbal",
             "repo": "LoggingInterceptor",
-            "stars": 1360,
+            "stars": 1361,
             "topics": [
               "android",
               "interceptor",
@@ -1077,7 +1077,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2025-12-23T16:39:03Z",
-            "open_issues": 628,
+            "open_issues": 627,
             "owner": "google",
             "repo": "ExoPlayer",
             "stars": 21930,
@@ -1277,7 +1277,7 @@
                 "open_issues": 1,
                 "owner": "ReactiveX",
                 "repo": "RxAndroid",
-                "stars": 19931,
+                "stars": 19930,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1298,7 +1298,7 @@
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48208,
+                "stars": 48209,
                 "topics": [
                   "flow",
                   "java",
@@ -1356,7 +1356,7 @@
             "open_issues": 94,
             "owner": "facebook",
             "repo": "facebook-android-sdk",
-            "stars": 6456,
+            "stars": 6457,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1832,7 +1832,7 @@
             "open_issues": 240,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6647,
+            "stars": 6650,
             "topics": [
               "astar",
               "dijkstra",
@@ -1920,7 +1920,7 @@
             "open_issues": 27,
             "owner": "BoltsFramework",
             "repo": "Bolts-Android",
-            "stars": 4005,
+            "stars": 4006,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:54:34.258Z",
+    "last_updated": "2026-08-30T21:03:59.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
