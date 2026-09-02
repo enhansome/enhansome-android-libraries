@@ -39,8 +39,8 @@
             "id": 1450115,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T06:38:30Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-02T20:12:22Z",
+            "open_issues": 97,
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
             "stars": 6395,
@@ -88,8 +88,8 @@
             "id": 5152285,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T19:27:36Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-02T11:53:04Z",
+            "open_issues": 143,
             "owner": "lysine-dev",
             "repo": "okhttp",
             "stars": 47060,
@@ -165,11 +165,11 @@
             "id": 11267509,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T16:50:02Z",
-            "open_issues": 663,
+            "last_commit": "2026-09-02T17:08:51Z",
+            "open_issues": 664,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35022,
+            "stars": 35021,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -186,11 +186,11 @@
             "id": 11267509,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T16:50:02Z",
-            "open_issues": 663,
+            "last_commit": "2026-09-02T17:08:51Z",
+            "open_issues": 664,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35022,
+            "stars": 35021,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -270,11 +270,11 @@
             "id": 31533997,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-08-31T22:20:52Z",
+            "last_commit": "2026-09-02T17:38:52Z",
             "open_issues": 260,
             "owner": "facebook",
             "repo": "fresco",
-            "stars": 17162,
+            "stars": 17161,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -291,11 +291,11 @@
             "id": 31533997,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-08-31T22:20:52Z",
+            "last_commit": "2026-09-02T17:38:52Z",
             "open_issues": 260,
             "owner": "facebook",
             "repo": "fresco",
-            "stars": 17162,
+            "stars": 17161,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -348,7 +348,7 @@
             "open_issues": 118,
             "owner": "JakeWharton",
             "repo": "butterknife",
-            "stars": 25347,
+            "stars": 25346,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -533,7 +533,7 @@
             "open_issues": 46,
             "owner": "agrosner",
             "repo": "DBFlow",
-            "stars": 4848,
+            "stars": 4847,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -554,7 +554,7 @@
             "open_issues": 237,
             "owner": "greenrobot",
             "repo": "greenDAO",
-            "stars": 12590,
+            "stars": 12589,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -852,7 +852,7 @@
             "open_issues": 147,
             "owner": "greenrobot",
             "repo": "EventBus",
-            "stars": 24717,
+            "stars": 24716,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -873,7 +873,7 @@
             "open_issues": 18,
             "owner": "square",
             "repo": "otto",
-            "stars": 5113,
+            "stars": 5112,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1080,7 +1080,7 @@
             "open_issues": 627,
             "owner": "google",
             "repo": "ExoPlayer",
-            "stars": 21930,
+            "stars": 21932,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1277,7 +1277,7 @@
                 "open_issues": 1,
                 "owner": "ReactiveX",
                 "repo": "RxAndroid",
-                "stars": 19930,
+                "stars": 19928,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1298,7 +1298,7 @@
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48210,
+                "stars": 48208,
                 "topics": [
                   "flow",
                   "java",
@@ -1410,7 +1410,7 @@
             "open_issues": 347,
             "owner": "wasabeef",
             "repo": "android-gpuimage",
-            "stars": 9154,
+            "stars": 9157,
             "topics": [
               "android",
               "gpuimage",
@@ -1490,7 +1490,7 @@
             "open_issues": 226,
             "owner": "facebook",
             "repo": "buck",
-            "stars": 8542,
+            "stars": 8541,
             "topics": [
               "android",
               "buck",
@@ -1590,7 +1590,7 @@
             "open_issues": 30,
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20437,
+            "stars": 20436,
             "topics": [
               "android",
               "android-development",
@@ -1805,7 +1805,7 @@
             "open_issues": 14,
             "owner": "JakeWharton",
             "repo": "u2020",
-            "stars": 5619,
+            "stars": 5618,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1828,11 +1828,11 @@
             "id": 3480666,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T15:12:27Z",
+            "last_commit": "2026-09-02T20:06:16Z",
             "open_issues": 240,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6654,
+            "stars": 6655,
             "topics": [
               "astar",
               "dijkstra",
@@ -1899,7 +1899,7 @@
             "open_issues": 2,
             "owner": "dlew",
             "repo": "joda-time-android",
-            "stars": 2614,
+            "stars": 2613,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:01:08.404Z",
+    "last_updated": "2026-09-02T21:02:15.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
