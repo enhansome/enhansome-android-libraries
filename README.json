@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "android-async-http",
             "repo": "android-async-http",
-            "stars": 10579,
+            "stars": 10578,
             "topics": [
               "android",
               "java"
@@ -88,11 +88,11 @@
             "id": 5152285,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T00:39:56Z",
-            "open_issues": 148,
+            "last_commit": "2026-09-06T17:04:56Z",
+            "open_issues": 149,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47060,
+            "stars": 47061,
             "topics": [
               "android",
               "graalvm",
@@ -232,7 +232,7 @@
             "open_issues": 212,
             "owner": "square",
             "repo": "picasso",
-            "stars": 18792,
+            "stars": 18791,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -944,11 +944,11 @@
             "id": 11495787,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T12:19:30Z",
+            "last_commit": "2026-09-06T02:40:44Z",
             "open_issues": 63,
             "owner": "JakeWharton",
             "repo": "timber",
-            "stars": 10842,
+            "stars": 10843,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1410,7 +1410,7 @@
             "open_issues": 347,
             "owner": "wasabeef",
             "repo": "android-gpuimage",
-            "stars": 9155,
+            "stars": 9156,
             "topics": [
               "android",
               "gpuimage",
@@ -1832,7 +1832,7 @@
             "open_issues": 241,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6659,
+            "stars": 6663,
             "topics": [
               "astar",
               "dijkstra",
@@ -1864,7 +1864,7 @@
             "language": "Java",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-23T07:11:05Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "mapsforge",
             "repo": "mapsforge",
             "stars": 1408,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:19:00.368Z",
+    "last_updated": "2026-09-06T20:22:56.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
@@ -1942,7 +1942,7 @@
       "open_issues": 64,
       "owner": "wasabeef",
       "repo": "awesome-android-libraries",
-      "stars": 5529,
+      "stars": 5530,
       "topics": []
     },
     "original_repository_sha": "c904af4ec29ae328bedcd2be820f78dd6a583187",
