@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "android-async-http",
             "repo": "android-async-http",
-            "stars": 10577,
+            "stars": 10576,
             "topics": [
               "android",
               "java"
@@ -88,11 +88,11 @@
             "id": 5152285,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T10:50:07Z",
-            "open_issues": 151,
+            "last_commit": "2026-09-16T19:37:03Z",
+            "open_issues": 152,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47059,
+            "stars": 47060,
             "topics": [
               "android",
               "graalvm",
@@ -118,7 +118,7 @@
             "open_issues": 173,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43937,
+            "stars": 43940,
             "topics": [
               "android",
               "java"
@@ -232,7 +232,7 @@
             "open_issues": 212,
             "owner": "square",
             "repo": "picasso",
-            "stars": 18791,
+            "stars": 18790,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -270,7 +270,7 @@
             "id": 31533997,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-13T13:02:51Z",
+            "last_commit": "2026-09-16T15:44:52Z",
             "open_issues": 263,
             "owner": "facebook",
             "repo": "fresco",
@@ -291,7 +291,7 @@
             "id": 31533997,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-09-13T13:02:51Z",
+            "last_commit": "2026-09-16T15:44:52Z",
             "open_issues": 263,
             "owner": "facebook",
             "repo": "fresco",
@@ -322,7 +322,7 @@
             "open_issues": 50,
             "owner": "androidannotations",
             "repo": "androidannotations",
-            "stars": 10970,
+            "stars": 10971,
             "topics": [
               "android",
               "androidannotations",
@@ -852,7 +852,7 @@
             "open_issues": 147,
             "owner": "greenrobot",
             "repo": "EventBus",
-            "stars": 24708,
+            "stars": 24709,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -944,8 +944,8 @@
             "id": 11495787,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T06:49:31Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-16T16:56:11Z",
+            "open_issues": 64,
             "owner": "JakeWharton",
             "repo": "timber",
             "stars": 10850,
@@ -1298,7 +1298,7 @@
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48202,
+                "stars": 48201,
                 "topics": [
                   "flow",
                   "java",
@@ -1356,7 +1356,7 @@
             "open_issues": 93,
             "owner": "facebook",
             "repo": "facebook-android-sdk",
-            "stars": 6463,
+            "stars": 6464,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1490,7 +1490,7 @@
             "open_issues": 226,
             "owner": "facebook",
             "repo": "buck",
-            "stars": 8541,
+            "stars": 8542,
             "topics": [
               "android",
               "buck",
@@ -1828,11 +1828,11 @@
             "id": 3480666,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T17:06:04Z",
+            "last_commit": "2026-09-16T17:55:31Z",
             "open_issues": 242,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6693,
+            "stars": 6694,
             "topics": [
               "astar",
               "dijkstra",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:19:23.944Z",
+    "last_updated": "2026-09-16T21:16:46.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
