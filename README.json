@@ -19,7 +19,7 @@
             "open_issues": 119,
             "owner": "android-async-http",
             "repo": "android-async-http",
-            "stars": 10576,
+            "stars": 10575,
             "topics": [
               "android",
               "java"
@@ -39,8 +39,8 @@
             "id": 1450115,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T20:28:16Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-20T20:36:12Z",
+            "open_issues": 91,
             "owner": "AsyncHttpClient",
             "repo": "async-http-client",
             "stars": 6396,
@@ -92,7 +92,7 @@
             "open_issues": 153,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47061,
+            "stars": 47063,
             "topics": [
               "android",
               "graalvm",
@@ -118,7 +118,7 @@
             "open_issues": 173,
             "owner": "lysine-dev",
             "repo": "retrofit",
-            "stars": 43940,
+            "stars": 43943,
             "topics": [
               "android",
               "java"
@@ -169,7 +169,7 @@
             "open_issues": 666,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35026,
+            "stars": 35027,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -190,7 +190,7 @@
             "open_issues": 666,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35026,
+            "stars": 35027,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -390,7 +390,7 @@
             "open_issues": 369,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17700,
+            "stars": 17701,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -554,7 +554,7 @@
             "open_issues": 237,
             "owner": "greenrobot",
             "repo": "greenDAO",
-            "stars": 12589,
+            "stars": 12590,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -894,7 +894,7 @@
             "open_issues": 17,
             "owner": "bennidi",
             "repo": "mbassador",
-            "stars": 974,
+            "stars": 975,
             "topics": [
               "concurrent-programming",
               "event-driven",
@@ -1080,7 +1080,7 @@
             "open_issues": 627,
             "owner": "google",
             "repo": "ExoPlayer",
-            "stars": 21938,
+            "stars": 21937,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 96,
             "owner": "facebook",
             "repo": "facebook-android-sdk",
-            "stars": 6465,
+            "stars": 6464,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1590,7 +1590,7 @@
             "open_issues": 30,
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20430,
+            "stars": 20429,
             "topics": [
               "android",
               "android-development",
@@ -1832,7 +1832,7 @@
             "open_issues": 241,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6695,
+            "stars": 6696,
             "topics": [
               "astar",
               "dijkstra",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:38:32.418Z",
+    "last_updated": "2026-09-20T20:47:34.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
