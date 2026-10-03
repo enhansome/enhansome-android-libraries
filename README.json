@@ -89,10 +89,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T04:22:05Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47081,
+            "stars": 47082,
             "topics": [
               "android",
               "graalvm",
@@ -386,11 +386,11 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T23:53:53Z",
-            "open_issues": 372,
+            "last_commit": "2026-10-03T09:03:07Z",
+            "open_issues": 370,
             "owner": "google",
             "repo": "dagger",
-            "stars": 17701,
+            "stars": 17702,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -944,11 +944,11 @@
             "id": 11495787,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T01:53:10Z",
+            "last_commit": "2026-10-03T13:50:01Z",
             "open_issues": 63,
             "owner": "JakeWharton",
             "repo": "timber",
-            "stars": 10853,
+            "stars": 10852,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1294,7 +1294,7 @@
                 "id": 7508411,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T05:44:10Z",
+                "last_commit": "2026-10-03T10:59:10Z",
                 "open_issues": 11,
                 "owner": "ReactiveX",
                 "repo": "RxJava",
@@ -1410,7 +1410,7 @@
             "open_issues": 347,
             "owner": "wasabeef",
             "repo": "android-gpuimage",
-            "stars": 9154,
+            "stars": 9153,
             "topics": [
               "android",
               "gpuimage",
@@ -1590,7 +1590,7 @@
             "open_issues": 30,
             "owner": "futurice",
             "repo": "android-best-practices",
-            "stars": 20411,
+            "stars": 20412,
             "topics": [
               "android",
               "android-development",
@@ -1832,7 +1832,7 @@
             "open_issues": 246,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6717,
+            "stars": 6718,
             "topics": [
               "astar",
               "dijkstra",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:14.375Z",
+    "last_updated": "2026-10-03T21:13:04.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
