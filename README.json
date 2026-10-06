@@ -92,7 +92,7 @@
             "open_issues": 155,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47086,
+            "stars": 47088,
             "topics": [
               "android",
               "graalvm",
@@ -165,11 +165,11 @@
             "id": 11267509,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T00:22:26Z",
-            "open_issues": 671,
+            "last_commit": "2026-10-06T21:49:35Z",
+            "open_issues": 672,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35021,
+            "stars": 35018,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -186,11 +186,11 @@
             "id": 11267509,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T00:22:26Z",
-            "open_issues": 671,
+            "last_commit": "2026-10-06T21:49:35Z",
+            "open_issues": 672,
             "owner": "bumptech",
             "repo": "glide",
-            "stars": 35021,
+            "stars": 35018,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -232,7 +232,7 @@
             "open_issues": 212,
             "owner": "square",
             "repo": "picasso",
-            "stars": 18776,
+            "stars": 18775,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -270,11 +270,11 @@
             "id": 31533997,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:01:55Z",
+            "last_commit": "2026-10-06T21:12:25Z",
             "open_issues": 263,
             "owner": "facebook",
             "repo": "fresco",
-            "stars": 17152,
+            "stars": 17150,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -291,11 +291,11 @@
             "id": 31533997,
             "language": "Kotlin",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:01:55Z",
+            "last_commit": "2026-10-06T21:12:25Z",
             "open_issues": 263,
             "owner": "facebook",
             "repo": "fresco",
-            "stars": 17152,
+            "stars": 17150,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -386,7 +386,7 @@
             "id": 7968417,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T03:41:41Z",
+            "last_commit": "2026-10-06T15:41:07Z",
             "open_issues": 368,
             "owner": "google",
             "repo": "dagger",
@@ -948,7 +948,7 @@
             "open_issues": 63,
             "owner": "JakeWharton",
             "repo": "timber",
-            "stars": 10853,
+            "stars": 10852,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1356,7 +1356,7 @@
             "open_issues": 97,
             "owner": "facebook",
             "repo": "facebook-android-sdk",
-            "stars": 6462,
+            "stars": 6461,
             "topics": []
           },
           "first_seen": "2026-08-29T01:44:59.004Z"
@@ -1832,7 +1832,7 @@
             "open_issues": 244,
             "owner": "graphhopper",
             "repo": "graphhopper",
-            "stars": 6719,
+            "stars": 6720,
             "topics": [
               "astar",
               "dijkstra",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:35.595Z",
+    "last_updated": "2026-10-06T22:39:04.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is an alphabetical list of libraries for Android development, the majority being actively maintained.",
