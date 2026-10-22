@@ -2,7 +2,7 @@
 
 This is an alphabetical list of libraries for Android development, the majority being actively maintained.
 
-**UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,072 | 🐛 43 | 📅 2026-06-05.**
+**UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,086 | 🐛 43 | 📅 2026-06-05.**
 
 ### Index
 
@@ -37,10 +37,10 @@ This is an alphabetical list of libraries for Android development, the majority 
 | Name                                                                                                                   | Repository                                                                                          | License                                                          |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Android Asynchronous Http Client](http://loopj.com/android-async-http)                                                | <https://github.com/loopj/android-async-http> ⭐ 10,566 \| 🐛 119 \| 🌐 Java \| 📅 2023-04-17        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) ⭐ 6,396 \| 🐛 98 \| 🌐 Java \| 📅 2026-10-02 | <https://github.com/AsyncHttpClient/async-http-client> ⭐ 6,396 \| 🐛 98 \| 🌐 Java \| 📅 2026-10-02 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [ion](https://github.com/koush/ion) ⭐ 6,232 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                                      | <https://github.com/koush/ion> ⭐ 6,232 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [OkHttp](http://square.github.io/okhttp/)                                                                              | <https://github.com/square/okhttp> ⭐ 47,089 \| 🐛 146 \| 🌐 Kotlin \| 📅 2026-10-21                 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [Retrofit](http://square.github.io/retrofit/)                                                                          | <https://github.com/square/retrofit> ⭐ 43,934 \| 🐛 149 \| 🌐 Java \| 📅 2026-10-21                 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) ⭐ 6,395 \| 🐛 97 \| 🌐 Java \| 📅 2026-10-02 | <https://github.com/AsyncHttpClient/async-http-client> ⭐ 6,395 \| 🐛 97 \| 🌐 Java \| 📅 2026-10-02 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [ion](https://github.com/koush/ion) ⭐ 6,231 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                                      | <https://github.com/koush/ion> ⭐ 6,231 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [OkHttp](http://square.github.io/okhttp/)                                                                              | <https://github.com/square/okhttp> ⭐ 47,086 \| 🐛 147 \| 🌐 Kotlin \| 📅 2026-10-22                 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [Retrofit](http://square.github.io/retrofit/)                                                                          | <https://github.com/square/retrofit> ⭐ 43,936 \| 🐛 148 \| 🌐 Java \| 📅 2026-10-22                 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [RxNetty](https://github.com/ReactiveX/RxNetty) ⭐ 1,372 \| 🐛 84 \| 🌐 Java \| 📅 2022-01-05                           | <https://github.com/ReactiveX/RxNetty> ⭐ 1,372 \| 🐛 84 \| 🌐 Java \| 📅 2022-01-05                 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/)                                             | <https://code.google.com/p/basic-http-client/>                                                      | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 
@@ -49,10 +49,10 @@ This is an alphabetical list of libraries for Android development, the majority 
 | Name                                                                                                                                | Repository                                                                                                  | License                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [Glide](https://github.com/bumptech/glide) ⭐ 35,005 \| 🐛 670 \| 🌐 Java \| 📅 2026-10-21                                           | <https://github.com/bumptech/glide> ⭐ 35,005 \| 🐛 670 \| 🌐 Java \| 📅 2026-10-21                          | [ License](https://github.com/bumptech/glide/blob/master/LICENSE) ⭐ 35,005 \| 🐛 670 \| 🌐 Java \| 📅 2026-10-21       |
-| [ion](https://github.com/koush/ion) ⭐ 6,232 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                                                   | <https://github.com/koush/ion> ⭐ 6,232 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                                | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
-| [Picasso](http://square.github.io/picasso)                                                                                          | <https://github.com/square/picasso> ⭐ 18,764 \| 🐛 212 \| 🌐 Kotlin \| 📅 2024-11-06                        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
+| [ion](https://github.com/koush/ion) ⭐ 6,231 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                                                   | <https://github.com/koush/ion> ⭐ 6,231 \| 🐛 334 \| 🌐 Java \| 📅 2026-08-11                                | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
+| [Picasso](http://square.github.io/picasso)                                                                                          | <https://github.com/square/picasso> ⭐ 18,763 \| 🐛 212 \| 🌐 Kotlin \| 📅 2024-11-06                        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
 | [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) ⭐ 16,796 \| 🐛 459 \| 🌐 Java \| 📅 2024-08-15 | <https://github.com/nostra13/Android-Universal-Image-Loader> ⭐ 16,796 \| 🐛 459 \| 🌐 Java \| 📅 2024-08-15 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                       |
-| [Fresco](http://frescolib.org)                                                                                                      | <https://github.com/facebook/fresco> ⭐ 17,154 \| 🐛 265 \| 🌐 Kotlin \| 📅 2026-10-21                       | [BSD License](https://github.com/facebook/fresco/blob/master/LICENSE) ⭐ 17,154 \| 🐛 265 \| 🌐 Kotlin \| 📅 2026-10-21 |
+| [Fresco](http://frescolib.org)                                                                                                      | <https://github.com/facebook/fresco> ⭐ 17,155 \| 🐛 265 \| 🌐 Kotlin \| 📅 2026-10-22                       | [BSD License](https://github.com/facebook/fresco/blob/master/LICENSE) ⭐ 17,155 \| 🐛 265 \| 🌐 Kotlin \| 📅 2026-10-22 |
 
 ## Drawable
 
@@ -65,9 +65,9 @@ This is an alphabetical list of libraries for Android development, the majority 
 | Name                                                                                              | Repository                                                                                  | License                                                          |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [AndroidAnnotations](http://androidannotations.org/)                                              | <https://github.com/excilys/androidannotations> ⚠️ Archived                                 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [Butter Knife](http://jakewharton.github.io/butterknife/)                                         | <https://github.com/JakeWharton/butterknife> ⭐ 25,320 \| 🐛 118 \| 🌐 Java \| 📅 2023-09-02 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [Butter Knife](http://jakewharton.github.io/butterknife/)                                         | <https://github.com/JakeWharton/butterknife> ⭐ 25,319 \| 🐛 118 \| 🌐 Java \| 📅 2023-09-02 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Dagger(Square)](http://square.github.io/dagger/)                                                 | <https://github.com/square/dagger> ⚠️ Archived                                              | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [Dagger(Google)](https://github.com/google/dagger) ⭐ 17,691 \| 🐛 367 \| 🌐 Java \| 📅 2026-10-21 | <https://github.com/google/dagger> ⭐ 17,691 \| 🐛 367 \| 🌐 Java \| 📅 2026-10-21           | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [Dagger(Google)](https://github.com/google/dagger) ⭐ 17,690 \| 🐛 365 \| 🌐 Java \| 📅 2026-10-22 | <https://github.com/google/dagger> ⭐ 17,690 \| 🐛 365 \| 🌐 Java \| 📅 2026-10-22           | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [RoboGuice](https://github.com/roboguice/roboguice) ⭐ 3,717 \| 🐛 147 \| 🌐 Java \| 📅 2017-01-19 | <https://github.com/roboguice/roboguice> ⭐ 3,717 \| 🐛 147 \| 🌐 Java \| 📅 2017-01-19      | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Scopes](https://github.com/emmano/Scopes) ⭐ 35 \| 🐛 0 \| 🌐 Java \| 📅 2019-12-30               | <https://github.com/emmano/Scopes> ⭐ 35 \| 🐛 0 \| 🌐 Java \| 📅 2019-12-30                 | [MIT](http://opensource.org/licenses/MIT)                        |
 
@@ -77,16 +77,16 @@ This is an alphabetical list of libraries for Android development, the majority 
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Gson](https://code.google.com/p/google-gson/)                            | <http://google-gson.googlecode.com/svn/trunk/>                          | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [ig-json-parser](https://github.com/Instagram/ig-json-parser) ⚠️ Archived | <https://github.com/Instagram/ig-json-parser> ⚠️ Archived               | [BSD](https://en.wikipedia.org/wiki/BSD_licenses)                |
-| [Jackson](http://jackson.codehaus.org/)                                   | <https://github.com/FasterXML/jackson> ⭐ 9,833 \| 🐛 0 \| 📅 2026-10-18 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [Jackson](http://jackson.codehaus.org/)                                   | <https://github.com/FasterXML/jackson> ⭐ 9,834 \| 🐛 0 \| 📅 2026-10-18 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 
 ## O/R Mapping
 
 | Name                                                                                               | Repository                                                                                 | License                                                                                                            |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| [ActiveAndroid](http://www.activeandroid.com/)                                                     | <https://github.com/pardom/ActiveAndroid> ⭐ 4,648 \| 🐛 327 \| 🌐 Java \| 📅 2021-10-15    | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                   |
+| [ActiveAndroid](http://www.activeandroid.com/)                                                     | <https://github.com/pardom/ActiveAndroid> ⭐ 4,646 \| 🐛 327 \| 🌐 Java \| 📅 2021-10-15    | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                   |
 | [Cupboard for Android](https://bitbucket.org/littlerobots/cupboard)                                | <https://bitbucket.org/littlerobots/cupboard>                                              | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                   |
-| [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,844 \| 🐛 46 \| 🌐 Kotlin \| 📅 2026-08-23        | <https://github.com/Raizlabs/DBFlow> ⭐ 4,844 \| 🐛 46 \| 🌐 Kotlin \| 📅 2026-08-23        | [MIT](http://opensource.org/licenses/MIT)                                                                          |
-| [greenDAO](http://greendao-orm.com/)                                                               | <https://github.com/greenrobot/greenDAO> ⭐ 12,582 \| 🐛 237 \| 🌐 Java \| 📅 2024-04-30    | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                   |
+| [DBFlow](https://github.com/Raizlabs/DBFlow) ⭐ 4,843 \| 🐛 46 \| 🌐 Kotlin \| 📅 2026-08-23        | <https://github.com/Raizlabs/DBFlow> ⭐ 4,843 \| 🐛 46 \| 🌐 Kotlin \| 📅 2026-08-23        | [MIT](http://opensource.org/licenses/MIT)                                                                          |
+| [greenDAO](http://greendao-orm.com/)                                                               | <https://github.com/greenrobot/greenDAO> ⭐ 12,580 \| 🐛 237 \| 🌐 Java \| 📅 2024-04-30    | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                   |
 | [RushOrm](http://www.rushorm.com/)                                                                 | <https://github.com/Stuart-campbell/RushOrm> ⭐ 171 \| 🐛 43 \| 🌐 Java \| 📅 2022-01-07    | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                   |
 | [Sugar ORM](http://satyan.github.io/sugar/)                                                        | <https://github.com/satyan/sugar> ⭐ 2,604 \| 🐛 300 \| 🌐 Java \| 📅 2021-09-02            | [Satya Narayan](https://github.com/satyan/sugar/blob/master/LICENSE) ⭐ 2,604 \| 🐛 300 \| 🌐 Java \| 📅 2021-09-02 |
 | [Shillelagh](https://github.com/pieces029/shillelagh) ⚠️ Archived                                  | <https://github.com/pieces029/shillelagh> ⚠️ Archived                                      | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)                                                   |
@@ -108,7 +108,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 
 | Name                                                                                              | Repository                                                                              | License                                                          |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [EventBus](https://github.com/greenrobot/EventBus) ⭐ 24,685 \| 🐛 147 \| 🌐 Java \| 📅 2024-02-21 | <https://github.com/greenrobot/EventBus> ⭐ 24,685 \| 🐛 147 \| 🌐 Java \| 📅 2024-02-21 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [EventBus](https://github.com/greenrobot/EventBus) ⭐ 24,684 \| 🐛 147 \| 🌐 Java \| 📅 2024-02-21 | <https://github.com/greenrobot/EventBus> ⭐ 24,684 \| 🐛 147 \| 🌐 Java \| 📅 2024-02-21 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Otto](http://square.github.io/otto/)                                                             | <https://github.com/square/otto> ⚠️ Archived                                            | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [MBassador](https://github.com/bennidi/mbassador) ⭐ 973 \| 🐛 17 \| 🌐 Java \| 📅 2025-12-02      | <https://github.com/bennidi/mbassador> ⭐ 973 \| 🐛 17 \| 🌐 Java \| 📅 2025-12-02       | [MIT](http://opensource.org/licenses/MIT)                        |
 
@@ -117,8 +117,8 @@ This is an alphabetical list of libraries for Android development, the majority 
 | Name                                                                                                               | Repository                                                                                     | License                                                          |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Hugo](https://github.com/JakeWharton/hugo) ⭐ 7,880 \| 🐛 60 \| 🌐 Java \| 📅 2022-01-05                           | <https://github.com/JakeWharton/hugo> ⭐ 7,880 \| 🐛 60 \| 🌐 Java \| 📅 2022-01-05             | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [Timber](https://github.com/JakeWharton/timber) ⭐ 10,850 \| 🐛 64 \| 🌐 Kotlin \| 📅 2026-10-21                    | <https://github.com/JakeWharton/timber> ⭐ 10,850 \| 🐛 64 \| 🌐 Kotlin \| 📅 2026-10-21        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) ⭐ 1,361 \| 🐛 1 \| 🌐 Kotlin \| 📅 2026-02-19 | <https://github.com/ihsanbal/LoggingInterceptor> ⭐ 1,361 \| 🐛 1 \| 🌐 Kotlin \| 📅 2026-02-19 | [MIT](http://opensource.org/licenses/MIT)                        |
+| [Timber](https://github.com/JakeWharton/timber) ⭐ 10,849 \| 🐛 63 \| 🌐 Kotlin \| 📅 2026-10-21                    | <https://github.com/JakeWharton/timber> ⭐ 10,849 \| 🐛 63 \| 🌐 Kotlin \| 📅 2026-10-21        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) ⭐ 1,362 \| 🐛 1 \| 🌐 Kotlin \| 📅 2026-02-19 | <https://github.com/ihsanbal/LoggingInterceptor> ⭐ 1,362 \| 🐛 1 \| 🌐 Kotlin \| 📅 2026-02-19 | [MIT](http://opensource.org/licenses/MIT)                        |
 
 ## Background Processing
 
@@ -138,7 +138,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 
 | Name                                                                                            | Repository                                                                           | License                                                          |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,943 \| 🐛 627 \| 🌐 Java \| 📅 2025-12-23 | <https://github.com/google/ExoPlayer> ⭐ 21,943 \| 🐛 627 \| 🌐 Java \| 📅 2025-12-23 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,941 \| 🐛 627 \| 🌐 Java \| 📅 2025-12-23 | <https://github.com/google/ExoPlayer> ⭐ 21,941 \| 🐛 627 \| 🌐 Java \| 📅 2025-12-23 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [ijkplayer](https://github.com/bbcallen/ijkplayer) ⭐ 38 \| 🐛 0 \| 🌐 C \| 📅 2017-04-17        | <https://github.com/bbcallen/ijkplayer> ⭐ 38 \| 🐛 0 \| 🌐 C \| 📅 2017-04-17        | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [mp4parser](https://code.google.com/p/mp4parser/)                                               | <https://github.com/sannies/mp4parser> ⭐ 2,800 \| 🐛 276 \| 🌐 Java \| 📅 2024-08-15 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 
@@ -149,7 +149,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 | [AutoParcel](https://github.com/frankiesardo/auto-parcel) ⭐ 1,358 \| 🐛 10 \| 🌐 Clojure \| 📅 2017-02-12 | <https://github.com/frankiesardo/auto-parcel> ⭐ 1,358 \| 🐛 10 \| 🌐 Clojure \| 📅 2017-02-12 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Akatsuki](https://github.com/tom91136/Akatsuki) ⭐ 135 \| 🐛 5 \| 🌐 Java \| 📅 2016-03-06                | <https://github.com/tom91136/Akatsuki> ⭐ 135 \| 🐛 5 \| 🌐 Java \| 📅 2016-03-06              | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Icepick](https://github.com/frankiesardo/icepick) ⭐ 3,715 \| 🐛 26 \| 🌐 Clojure \| 📅 2021-05-26        | <https://github.com/frankiesardo/icepick> ⭐ 3,715 \| 🐛 26 \| 🌐 Clojure \| 📅 2021-05-26     | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [Parceler](https://github.com/johncarl81/parceler) ⭐ 3,526 \| 🐛 33 \| 🌐 Java \| 📅 2026-07-09           | <https://github.com/johncarl81/parceler> ⭐ 3,526 \| 🐛 33 \| 🌐 Java \| 📅 2026-07-09         | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [Parceler](https://github.com/johncarl81/parceler) ⭐ 3,525 \| 🐛 33 \| 🌐 Java \| 📅 2026-07-09           | <https://github.com/johncarl81/parceler> ⭐ 3,525 \| 🐛 33 \| 🌐 Java \| 📅 2026-07-09         | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 
 ## Functional Programming
 
@@ -163,15 +163,15 @@ This is an alphabetical list of libraries for Android development, the majority 
 
 | Name                                                                                             | Repository                                                                            | License                                                          |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,899 \| 🐛 1 \| 🌐 Java \| 📅 2026-10-01 | <https://github.com/ReactiveX/RxAndroid> ⭐ 19,899 \| 🐛 1 \| 🌐 Java \| 📅 2026-10-01 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
-| [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,177 \| 🐛 11 \| 🌐 Java \| 📅 2026-10-19      | <https://github.com/ReactiveX/RxJava> ⭐ 48,177 \| 🐛 11 \| 🌐 Java \| 📅 2026-10-19   | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [RxAndroid](https://github.com/ReactiveX/RxAndroid) ⭐ 19,898 \| 🐛 1 \| 🌐 Java \| 📅 2026-10-01 | <https://github.com/ReactiveX/RxAndroid> ⭐ 19,898 \| 🐛 1 \| 🌐 Java \| 📅 2026-10-01 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,161 \| 🐛 11 \| 🌐 Java \| 📅 2026-10-19      | <https://github.com/ReactiveX/RxJava> ⭐ 48,161 \| 🐛 11 \| 🌐 Java \| 📅 2026-10-19   | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 
 ## Social Networks
 
 | Name                                                                              | Repository                                                                                        | License                                                          |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [ASNE](https://github.com/gorbin/ASNE) ⭐ 877 \| 🐛 61 \| 🌐 Java \| 📅 2019-05-29 | <https://github.com/gorbin/ASNE> ⭐ 877 \| 🐛 61 \| 🌐 Java \| 📅 2019-05-29                       | [MIT](http://opensource.org/licenses/MIT)                        |
-| [Facebook SDK](https://developers.facebook.com/docs/android)                      | <https://github.com/facebook/facebook-android-sdk> ⭐ 6,464 \| 🐛 96 \| 🌐 Kotlin \| 📅 2026-10-21 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [ASNE](https://github.com/gorbin/ASNE) ⭐ 878 \| 🐛 61 \| 🌐 Java \| 📅 2019-05-29 | <https://github.com/gorbin/ASNE> ⭐ 878 \| 🐛 61 \| 🌐 Java \| 📅 2019-05-29                       | [MIT](http://opensource.org/licenses/MIT)                        |
+| [Facebook SDK](https://developers.facebook.com/docs/android)                      | <https://github.com/facebook/facebook-android-sdk> ⭐ 6,463 \| 🐛 97 \| 🌐 Kotlin \| 📅 2026-10-21 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Twitter Fabric](https://dev.twitter.com/products/fabric)                         | Unknown                                                                                           | Unknown                                                          |
 
 ## WebRTC
@@ -231,7 +231,7 @@ This is an alphabetical list of libraries for Android development, the majority 
 
 | Name                                                                                            | Repository                                                                                 | License                                                          |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [GraphHopper](https://graphhopper.com)                                                          | <https://github.com/graphhopper/graphhopper> ⭐ 6,737 \| 🐛 244 \| 🌐 Java \| 📅 2026-10-21 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
+| [GraphHopper](https://graphhopper.com)                                                          | <https://github.com/graphhopper/graphhopper> ⭐ 6,740 \| 🐛 245 \| 🌐 Java \| 📅 2026-10-21 | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |
 | [Mapsforge](https://github.com/mapsforge/mapsforge) ⭐ 1,416 \| 🐛 6 \| 🌐 Java \| 📅 2026-10-19 | <https://github.com/mapsforge/mapsforge> ⭐ 1,416 \| 🐛 6 \| 🌐 Java \| 📅 2026-10-19       | [LGPL](https://www.gnu.org/licenses/lgpl.html)                   |
 
 ## Other
@@ -244,4 +244,4 @@ This is an alphabetical list of libraries for Android development, the majority 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
